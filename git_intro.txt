@@ -1,0 +1,2 @@
+1. Log into github
+2. Generate SSH key
