@@ -1,4 +1,0 @@
-1. Log into github
-2. Generate SSH key
-3. Clone repository
-4. Config git
