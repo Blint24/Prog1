@@ -1,0 +1,10 @@
+korte 10 4.2
+alma 4 6.5
+szilva 5 7.0
+barack 11 18.6
+citrom 2 2.4
+narancs 15 3.0
+mango 3 8.0
+dinnye 12 23.5
+eper 17 38.7
+cseresznye 1 50.0
